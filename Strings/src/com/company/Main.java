@@ -16,6 +16,6 @@ public class Main {
         String lastString = "10";
         int myInt = 50;
         lastString = lastString + myInt;
-        System.out.println(lastString);  
+        System.out.println(lastString);
     }
 }
