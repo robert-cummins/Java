@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Classes/Classes.iml" filepath="$PROJECT_DIR$/Basics/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/Challenges/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Basics/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" filepath="$PROJECT_DIR$/Challenges/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinElementArrayChallenge/MinElementArrayChallenge.iml" filepath="$PROJECT_DIR$/MinElementArrayChallenge/MinElementArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/OOPchallenge/OOPchallenge.iml" filepath="$PROJECT_DIR$/Challenges/OOPchallenge/OOPchallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/Challenges/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/Challenges/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/SumDigits/SumDigits.iml" filepath="$PROJECT_DIR$/Challenges/SumDigits/SumDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Switch/Switch.iml" filepath="$PROJECT_DIR$/Basics/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/UserInputChallenge/UserInputChallenge.iml" filepath="$PROJECT_DIR$/Challenges/UserInputChallenge/UserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/WhileDoWhile/WhileDoWhile.iml" filepath="$PROJECT_DIR$/Basics/WhileDoWhile/WhileDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayChallenge/arrayChallenge.iml" filepath="$PROJECT_DIR$/arrayChallenge/arrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/classChallengeBank/classChallengeBank.iml" filepath="$PROJECT_DIR$/Challenges/classChallengeBank/classChallengeBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/compositionChallenge/compositionChallenge.iml" filepath="$PROJECT_DIR$/Challenges/compositionChallenge/compositionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/constructorChallenge/constructorChallenge.iml" filepath="$PROJECT_DIR$/Challenges/constructorChallenge/constructorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/encapsculationChallenge/encapsculationChallenge.iml" filepath="$PROJECT_DIR$/Challenges/encapsculationChallenge/encapsculationChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/forLoop/forLoop.iml" filepath="$PROJECT_DIR$/Basics/forLoop/forLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/Basics/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/inheriteanceChallenge/inheriteanceChallenge.iml" filepath="$PROJECT_DIR$/Challenges/inheriteanceChallenge/inheriteanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/Basics/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/speedConverter/speedConverter.iml" filepath="$PROJECT_DIR$/Challenges/speedConverter/speedConverter.iml" />
+    </modules>
+  </component>
+</project>
